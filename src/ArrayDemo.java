@@ -30,6 +30,8 @@ public class ArrayDemo {
         //字符型默认是\u0000
         //char型默认是0
         //布尔型默认是false
+        //引用计数算法
+        //自动垃圾回收算法
 
 
 
