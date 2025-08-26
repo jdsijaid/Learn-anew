@@ -1,3 +1,5 @@
+package day1;
+
 public class ArrayDemo3 {
     //二维数组分为内层和外层
     /*

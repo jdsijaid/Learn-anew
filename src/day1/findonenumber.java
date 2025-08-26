@@ -1,3 +1,5 @@
+package day1;
+
 public class findonenumber {
     public static void main(String[] args) {
         System.out.println("1-1000之间的完全数有：");

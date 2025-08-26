@@ -1,3 +1,5 @@
+package day1;
+
 /**
  * 一个简单的HelloWorld程序示例
  *

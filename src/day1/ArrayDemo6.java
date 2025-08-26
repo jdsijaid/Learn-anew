@@ -1,3 +1,5 @@
+package day1;
+
 public class ArrayDemo6 {
     public static void main(String args[]){
         int[] array1 = {2,3,5,7,11,13,17,19};

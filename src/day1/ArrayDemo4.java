@@ -1,3 +1,5 @@
+package day1;
+
 public class ArrayDemo4 {
     public static void main(String args[]){
 //        int[] score = new int[6];
