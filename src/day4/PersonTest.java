@@ -20,6 +20,7 @@ class Person{
        this.name=name;
    }
    public String getName(){
+       this.show();
        return name;
    }
    public void setAge(int age){
