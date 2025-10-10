@@ -1,4 +1,4 @@
-package PolymorphismProject;
+package day8.PolymorphismProject;
 
 public class Man extends  Person{
     Boolean iswalk;

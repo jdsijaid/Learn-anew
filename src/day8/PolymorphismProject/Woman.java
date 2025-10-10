@@ -1,4 +1,4 @@
-package PolymorphismProject;
+package day8.PolymorphismProject;
 
 public class Woman extends Person {
     public void show(){
