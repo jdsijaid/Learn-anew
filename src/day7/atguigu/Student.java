@@ -11,6 +11,7 @@ package day7.atguigu;
 * 5.子类对象不能调用父类中private修饰的成员变量和方法
 * 6.还是继承到了只是不能调用父类中private修饰的成员变量和方法
 * */
+
 public class Student  extends Person{
 
     String major;
